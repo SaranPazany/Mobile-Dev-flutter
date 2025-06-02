@@ -1,16 +1,16 @@
-# Personal Portfolio App
+# ladning_page
 
-## Overview
+A new Flutter project.
 
-This is my personal portfolio webpage, as a Frontend Developer with expertise in UX/UI design and responsive web development. The page introduces me in a professional and engaging manner, highlighting my skills and inviting potential employers or clients to connect.
+## Getting Started
 
-## Decription
+This project is a starting point for a Flutter application.
 
-The portfolio features a clean and modern design with a white background and purple accents. At the top, the Webber Co. logo is displayed, followed by a professional headshot. Below the image, a welcoming message introduces me as a Frontend Developer with strong UX/UI design skills. A brief description emphasizes my ability to create intuitive user interfaces and responsive web applications.
+A few resources to get you started if this is your first Flutter project:
 
-  - **Hire Me**:  Encouraging potential employers or clients to reach out.
-  - **Download CV**: Allowing visitors to download her resume for more details about her experience and qualifications.
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-
-## Screenshot: 
-![Home Screen](screenshots/pazany.png)
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

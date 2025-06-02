@@ -1,34 +1,24 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
-import 'screens/portfolio_screen.dart';
+import 'screens/home_screen.dart';
 
 void main() {
-  WidgetsFlutterBinding.ensureInitialized();
-  SystemChrome.setPreferredOrientations([
-    DeviceOrientation.portraitUp,
-    DeviceOrientation.portraitDown,
-  ]);
-  runApp(const MyApp());
+  runApp(const WorktencyApp());
 }
 
-class MyApp extends StatelessWidget {
-  const MyApp({super.key});
+class WorktencyApp extends StatelessWidget {
+  const WorktencyApp({super.key});
 
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Portfolio App',
-      debugShowCheckedModeBanner: false,
+      title: 'Worktency',
       theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed( 
-          seedColor: const Color.fromARGB(255, 135, 0, 202),
-          primary: const Color.fromARGB(255, 135, 0, 202),
-        ),
-        useMaterial3: true,
-        fontFamily: 'Poppins',
+        primarySwatch: Colors.orange,
+        fontFamily: 'Inter',
+        scaffoldBackgroundColor: Colors.white,
       ),
-      home: const PortfolioScreen(),
+      home: const HomeScreen(),
+      debugShowCheckedModeBanner: false,
     );
   }
 }
-

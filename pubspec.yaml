@@ -1,18 +1,17 @@
-name: portfolio_app
-description: A Flutter portfolio application.
+name: landing_page
+description: A Flutter application for Worktency course platform.
 
-publish_to: 'none'
+publish_to: "none"
 
 version: 1.0.0+1
 
 environment:
-  sdk: '>=3.0.0 <4.0.0'
+  sdk: ">=3.0.0 <4.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
-  url_launcher: ^6.3.1
 
 dev_dependencies:
   flutter_test:
@@ -21,15 +20,20 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
-  assets:
-  - assets/images/me.JPG
-  
-  fonts:
-    - family: Poppins
-      fonts:
-        - asset: assets/fonts/Poppins-Regular.ttf
-        - asset: assets/fonts/Poppins-Medium.ttf
-          weight: 500
-        - asset: assets/fonts/Poppins-Bold.ttf
-          weight: 700
 
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" stanza. Example:
+  fonts:
+    - family: Inter
+      fonts:
+        - asset: assets/fonts/Inter-Regular.ttf
+        - asset: assets/fonts/Inter-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Inter-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Inter-Bold.ttf
+          weight: 700
