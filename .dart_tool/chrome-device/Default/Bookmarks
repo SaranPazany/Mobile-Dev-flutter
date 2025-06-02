@@ -1,0 +1,65 @@
+{
+   "checksum": "f17c605308c66d4dbd2a5d7e1aa6e1ec",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13381356770782894",
+            "date_last_used": "13393176015435508",
+            "guid": "91c89178-3aff-4977-a5f3-53f79b17edb6",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Google Doc",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://docs.google.com/document/u/0/",
+            "visit_count": 57
+         }, {
+            "date_added": "13392198610278832",
+            "date_last_used": "0",
+            "guid": "629bd247-4a03-468e-b972-bb6bed79f1ea",
+            "id": "7",
+            "name": "White and Blue Team Project Presentation - Presentation",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.canva.com/design/DAGn44oxqt8/6gRa0dapfo6FK4fM4Qw5Bw/edit",
+            "visit_count": 1
+         } ],
+         "date_added": "13393324337135377",
+         "date_last_used": "0",
+         "date_modified": "13392198610278832",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13393324337135381",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13393324337135383",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCKNOySaXAQAAEgAqGEp2YzI1djJjMmpubkxyU2RGcVE0MXc9PUgDoAYHEq0BCAcSqAEKHCt0Qm9ZK21YeGFQbU1PQUp3ZWpyRVFuSURhbz0SJDYyOWJkMjQ3LTRhMDMtNDY4ZS1iOTcyLWJiNmJlZDc5ZjFlYRgAIAAoADDxnZ3k7jI4hp+d5O4yQIafneTuMkocSGdrWGd3L0g1Q3YvRUhVZDg1SkdaS0pLdUlJPVofIh2wK0R5eTJlRFBFYlQ1aFFnaU9BdFpZdkRjbStZPWXO5Upawj4CYAUSjgEIARKJAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkMjgzMmI3M2EtZGUzNi01OTZiLWE2MTItNGM0YTNiOTNkZDZhGAAgACgAMPyjg8PpMDjHpoPD6TBAx6aDw+kwShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAAMI+AmAAEqwBCAYSpwEKHGY1WkQ2VW9YMTdmelBVQlFlWWFiQThsYlZyOD0SJDkxYzg5MTc4LTNhZmYtNDk3Ny1hNWYzLTUzZjc5YjE3ZWRiNhgAIAAoADCinaW28jI48fu3ssYyQPH7t7LGMkocWEx6cCtrYXhqbU9VREtMNGZhWWRPeW1SRjM0PVoeIhxhYVUvdlYwUVZBbWhlRjArR2ZOL0dCcUpDMms9ZTnGtrDCPgJgBRKOAQgCEokBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiRlNzA3MzIyZi1iM2VlLTVhNzUtYjhkNS0wNjc0MTZlZjM0MjIYACAAKAAw/aODw+kwOOamg8PpMEDmpoPD6TBKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAwj4CYAASjgEIAxKJAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkM2NiNzA2YTAtNDJmYy01MmRkLWFlZGItMDA1YTNjMmRlZGUzGAAgACgAMIKkg8PpMDjUp4PD6TBA1KeDw+kwShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAAMI+AmAAMAA4AA==",
+   "version": 1
+}
