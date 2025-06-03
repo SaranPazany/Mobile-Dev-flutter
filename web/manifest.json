@@ -1,6 +1,6 @@
 {
-    "name": "ladning_page",
-    "short_name": "ladning_page",
+    "name": "login_assignment",
+    "short_name": "login_assignment",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
