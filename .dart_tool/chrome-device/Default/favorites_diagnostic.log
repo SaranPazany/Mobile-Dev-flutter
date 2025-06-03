@@ -33,3 +33,7 @@
 2025-06-03 06:43:53.768: [INFO] BookmarkModelLoaded, ids_reassigned: 0
 2025-06-03 06:43:53.768: [INFO] OnDoneLoading sync enabled: 1
 2025-06-03 06:43:57.150: [INFO] Sync initialization duration: 2650ms
+2025-06-03 07:00:09.930: [INFO] VisibilityChanged: 0
+2025-06-03 07:00:09.976: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2025-06-03 07:00:09.976: [INFO] OnDoneLoading sync enabled: 1
+2025-06-03 07:00:15.451: [INFO] Sync initialization duration: 4915ms
